@@ -1,0 +1,22 @@
+PATH
+  remote: gems/bar
+  specs:
+    bar (0.1.0)
+
+PATH
+  remote: gems/foo
+  specs:
+    foo (0.1.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  bar!
+  foo!
+
+BUNDLED WITH
+   2.3.23
